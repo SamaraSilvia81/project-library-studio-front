@@ -8,7 +8,7 @@
 
 ## Deploy 
 
-Link do Deploy:
+Link do Deploy: https://library-studio.surge.sh/
 
 :warning:**Atenção** - Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 

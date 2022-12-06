@@ -6,6 +6,10 @@
 ## ABOUT US
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor a nota final do meu grupo na disciplina de Programação Front-End.
 
+## Deploy 
+
+`Link do Deploy:`
+
 :warning:**Atenção** - Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
 ## Library Studio 

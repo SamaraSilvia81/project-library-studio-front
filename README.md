@@ -15,6 +15,12 @@ Link do Deploy:
 ## Library Studio 
 A Library Studio é uma plataforma de serviços voltada à exposição de conteúdos literários existentes em uma livraria física. No qual, por meio do seu sistema, ela busca otimizar e facilitar o acesso aos recursos intelectuais do mundo da leitura dessa biblioteca.
 
+## Modelo ER
+
+A modelagem do nosso projeto se caracteriza da seguinte forma: No nosso site haverá a entidade `usuário` que terá a função de se cadastrar/logar, prenchendo os campos de nome, email e senha, além de realizar o cadastro dos `livros` - segunda entidade -, definindo imagem, breve sinopse, gênero e título. Assim, cada livro pertencerá diretamente a um usuário específico. 
+
+![Modelo ER - Library Studio](https://user-images.githubusercontent.com/100232025/206032792-20fe7eb8-fa67-4b84-a9b9-85e00cd44379.png)
+
 ## Ferramentas e Tecnologias 
 - `React JS:` Esta biblioteca foi usada como base do projeto.
 - `UI Kit:` Framework Tailwind CSS.

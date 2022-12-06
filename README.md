@@ -12,7 +12,7 @@ Link do Deploy:
 
 :warning:**Atenção** - Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
-## Library Studio 
+## LIBRARY STUDIO 
 A Library Studio é uma plataforma de serviços voltada à exposição de conteúdos literários existentes em uma livraria física. No qual, por meio do seu sistema, ela busca otimizar e facilitar o acesso aos recursos intelectuais do mundo da leitura dessa biblioteca.
 
 ## Modelo ER

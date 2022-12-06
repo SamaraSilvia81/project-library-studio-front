@@ -22,4 +22,6 @@ A Library Studio é uma plataforma de serviços voltada à exposição de conte�
 - `Java:` Linguagem de programação back-end usado na estruturação do banco de dados.
 - `SpringBoot:` Framework usado pra integrar o front com o back-end. 
 
+`Link do Back-End:`
+
 ## Deploy do Projeto
